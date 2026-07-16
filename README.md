@@ -14,4 +14,5 @@ ISO week numbering gives you the whole week at a glance. One look, one page.
 ## 4. Handwritten notes  → INK
 Handwrite first — memory and creativity work better with pen on paper.
 
-**The pattern:** Create handwritten notes (INK) → log daily (Yearfolio) → plan weekly (Weekly Planner) → file neatly (Index Card Notebook). Four habits, four notebooks, zero friction.
+**The pattern:** _Create handwritten notes (INK) → log daily (Yearfolio) → plan weekly (Weekly Planner) → file neatly (Index Card Notebook). Four habits, four notebooks, zero friction._
+
