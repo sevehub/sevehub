@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="544" height="144">
+    <style>
+        line, path, circle, rect, polygon{stroke:black;stroke-width:2;stroke-opacity:1;fill-opacity:1;stroke-linecap:round;stroke-linejoin:miter;}text{font-family:Iosevka Fixed, monospace;font-size:14px;}rect.backdrop{stroke:none;fill:transparent;}.broken{stroke-dasharray:8;}.filled{fill:black;}.bg_filled{fill:transparent;}.nofill{fill:transparent;}.end_marked_arrow{marker-end:url(#arrow);}.start_marked_arrow{marker-start:url(#arrow);}.end_marked_diamond{marker-end:url(#diamond);}.start_marked_diamond{marker-start:url(#diamond);}.end_marked_circle{marker-end:url(#circle);}.start_marked_circle{marker-start:url(#circle);}.end_marked_open_circle{marker-end:url(#open_circle);}.start_marked_open_circle{marker-start:url(#open_circle);}.end_marked_big_open_circle{marker-end:url(#big_open_circle);}.start_marked_big_open_circle{marker-start:url(#big_open_circle);}
+        <!--separator-->
+        
+    </style>
+    <defs>
+        <marker id="arrow" viewBox="-2 -2 8 8" refX="4" refY="2" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <polygon points="0,0 0,4 4,2 0,0"></polygon>
+        </marker>
+        <marker id="diamond" viewBox="-2 -2 8 8" refX="4" refY="2" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <polygon points="0,2 2,0 4,2 2,4 0,2"></polygon>
+        </marker>
+        <marker id="circle" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <circle cx="4" cy="4" r="2" class="filled"></circle>
+        </marker>
+        <marker id="open_circle" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <circle cx="4" cy="4" r="2" class="bg_filled"></circle>
+        </marker>
+        <marker id="big_open_circle" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <circle cx="4" cy="4" r="3" class="bg_filled"></circle>
+        </marker>
+    </defs>
+    <rect class="backdrop" x="0" y="0" width="544" height="144"></rect>
+    <text x="122" y="28">AI</text>
+    <text x="146" y="28">WORK</text>
+    <text x="186" y="28">LOG</text>
+    <text x="34" y="92">INK</text>
+    <text x="98" y="92">Yearfolio</text>
+    <text x="194" y="92">Weekly</text>
+    <text x="282" y="92">Index</text>
+    <text x="330" y="92">Card</text>
+    <text x="34" y="108">draft</text>
+    <path d="M 104,96 A 16,16 0,0,0 104,112" class="nofill"></path>
+    <text x="114" y="108">daily</text>
+    <path d="M 160,96 A 16,16 0,0,1 160,112" class="nofill"></path>
+    <text x="194" y="108">Planner</text>
+    <text x="282" y="108">Notebook</text>
+    <path d="M 192,112 A 16,16 0,0,0 192,128" class="nofill"></path>
+    <text x="202" y="124">ISO</text>
+    <text x="234" y="124">wk</text>
+    <path d="M 296,112 A 16,16 0,0,0 296,128" class="nofill"></path>
+    <text x="306" y="124">file</text>
+    <path d="M 344,112 A 16,16 0,0,1 344,128" class="nofill"></path>
+    <text x="274" y="28">chat</text>
+    <text x="314" y="28">card</text>
+    <text x="354" y="28">+</text>
+    <text x="370" y="28">hypothesis</text>
+    <line x1="464" y1="16" x2="456" y2="32" class="solid"></line>
+    <text x="474" y="28">findings</text>
+    <path d="M 24,96 A 16,16 0,0,0 24,112" class="nofill"></path>
+    <path d="M 80,96 A 16,16 0,0,1 80,112" class="nofill"></path>
+    <path d="M 256,112 A 16,16 0,0,1 256,128" class="nofill"></path>
+    <g>
+        <line x1="84" y1="8" x2="252" y2="8" class="solid"></line>
+        <line x1="84" y1="8" x2="84" y2="40" class="solid"></line>
+        <line x1="252" y1="8" x2="252" y2="40" class="solid"></line>
+        <line x1="84" y1="40" x2="252" y2="40" class="solid"></line>
+        <line x1="164" y1="40" x2="164" y2="56" class="solid"></line>
+        <line x1="44" y1="56" x2="308" y2="56" class="solid"></line>
+        <line x1="44" y1="56" x2="44" y2="68" class="solid"></line>
+        <line x1="132" y1="56" x2="132" y2="68" class="solid"></line>
+        <line x1="220" y1="56" x2="220" y2="68" class="solid"></line>
+        <line x1="308" y1="56" x2="308" y2="68" class="solid"></line>
+        <polygon points="40,68 48,68 44,80" class="filled"></polygon>
+        <polygon points="128,68 136,68 132,80" class="filled"></polygon>
+        <polygon points="216,68 224,68 220,80" class="filled"></polygon>
+        <polygon points="304,68 312,68 308,80" class="filled"></polygon>
+    </g>
+</svg>
