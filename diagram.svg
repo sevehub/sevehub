@@ -30,10 +30,10 @@
     <text x="194" y="92">Weekly</text>
     <text x="282" y="92">Index</text>
     <text x="330" y="92">Card</text>
-    <text x="34" y="108">draft</text>
-    <path d="M 104,96 A 16,16 0,0,0 104,112" class="nofill"></path>
-    <text x="114" y="108">daily</text>
-    <path d="M 160,96 A 16,16 0,0,1 160,112" class="nofill"></path>
+    <text x="26" y="108">draft</text>
+    <path d="M 112,96 A 16,16 0,0,0 112,112" class="nofill"></path>
+    <text x="122" y="108">daily</text>
+    <path d="M 168,96 A 16,16 0,0,1 168,112" class="nofill"></path>
     <text x="194" y="108">Planner</text>
     <text x="282" y="108">Notebook</text>
     <path d="M 192,112 A 16,16 0,0,0 192,128" class="nofill"></path>
@@ -48,8 +48,8 @@
     <text x="370" y="28">hypothesis</text>
     <line x1="464" y1="16" x2="456" y2="32" class="solid"></line>
     <text x="474" y="28">findings</text>
-    <path d="M 24,96 A 16,16 0,0,0 24,112" class="nofill"></path>
-    <path d="M 80,96 A 16,16 0,0,1 80,112" class="nofill"></path>
+    <path d="M 16,96 A 16,16 0,0,0 16,112" class="nofill"></path>
+    <path d="M 72,96 A 16,16 0,0,1 72,112" class="nofill"></path>
     <path d="M 256,112 A 16,16 0,0,1 256,128" class="nofill"></path>
     <g>
         <line x1="84" y1="8" x2="252" y2="8" class="solid"></line>
@@ -57,14 +57,14 @@
         <line x1="252" y1="8" x2="252" y2="40" class="solid"></line>
         <line x1="84" y1="40" x2="252" y2="40" class="solid"></line>
         <line x1="164" y1="40" x2="164" y2="56" class="solid"></line>
-        <line x1="44" y1="56" x2="308" y2="56" class="solid"></line>
+        <line x1="44" y1="56" x2="316" y2="56" class="solid"></line>
         <line x1="44" y1="56" x2="44" y2="68" class="solid"></line>
         <line x1="132" y1="56" x2="132" y2="68" class="solid"></line>
         <line x1="220" y1="56" x2="220" y2="68" class="solid"></line>
-        <line x1="308" y1="56" x2="308" y2="68" class="solid"></line>
+        <line x1="316" y1="56" x2="316" y2="68" class="solid"></line>
         <polygon points="40,68 48,68 44,80" class="filled"></polygon>
         <polygon points="128,68 136,68 132,80" class="filled"></polygon>
         <polygon points="216,68 224,68 220,80" class="filled"></polygon>
-        <polygon points="304,68 312,68 308,80" class="filled"></polygon>
+        <polygon points="312,68 320,68 316,80" class="filled"></polygon>
     </g>
 </svg>
