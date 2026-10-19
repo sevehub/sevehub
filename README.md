@@ -37,7 +37,7 @@ ISO week numbering gives the whole week at a glance. One look, one page.
 ## 3. One Idea, One Card → [Index Card Notebook](https://a.co/d/0ftEvPyW)
 160 cards, 8 sections, Zettelkasten-ready numbering. Brainstorms, code sketches, 2×2s, daily reflections.
 
-## 4. Handwritten Notes → [INK] (https://a.co/d/0iFN0AYl)
+## 4. Handwritten Notes → [INK](https://a.co/d/0iFN0AYl)
 Elevate your field notes by prioritizing handwriting to maximize memory and creativity, while integrating a vast, free digital library for on-demand reference. 
 
 
