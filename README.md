@@ -15,7 +15,7 @@
 Every AI chat gets one page in the AI Work Log. 
 
 
-<img src="diagram.svg" alt="Superhabits of Superproductive Professionals Flowchart" width="100%">
+<img src="diagram.png" alt="Superhabits of Superproductive Professionals Flowchart" width="100%">
 
 
 | Step | Notebook | Action |
