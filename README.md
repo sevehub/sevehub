@@ -17,15 +17,6 @@ Every AI chat gets one page in the AI Work Log.
 
 <img src="diagram.png" alt="Superhabits of Superproductive Professionals Flowchart" width="100%">
 
-
-| Step | Notebook | Action |
-|------|----------|--------|
-| 1 | INK | Handwrite the question or draft before opening the chat |
-| 2 | AI Work Log | Record the chat on one page: prompt, hypothesis, findings |
-| 3 | Yearfolio | Note the page number in the time block where the chat took place |
-| 4 | Weekly Planner | Tally the week's chats under the ISO week number |
-| 5 | Index Card Notebook | Promote each confirmed finding to one card, with the log page as reference |
-
 ---
 
 ## 1. Daily Time-Blocking → [Yearfolio](https://a.co/d/06N61UUO)
@@ -44,7 +35,7 @@ Elevate your field notes by prioritizing handwriting to maximize memory and crea
 ---
 
 ```
-INK → AI Work Log → Yearfolio → Weekly Planner → Index Card Notebook
+AI Work Log → Yearfolio → Weekly Planner → Index Card Notebook → INK
 ```
 
 *Five notebooks, one flow, zero friction.*
